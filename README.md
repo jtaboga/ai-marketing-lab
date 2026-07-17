@@ -33,4 +33,4 @@ half-remembered chat threads.
 
 ---
 
-*Maintained by [Your Name]. Built as my first real GitHub repo.*
+*Maintained by jtaboga.*
